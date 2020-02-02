@@ -7,6 +7,12 @@
  * _order list just put a number not star_ *  
  1 - this is example on the ordered list 
  2 - and here you can see the number beside the text.
+    
+ * nested list it will be by enter the line next to each other
+          for this it will be in a text decoration 
+               and like this it will be another text decoration
+                  and so on. 
+                 
  
  the link is done by put [] square brackets for the name of the link and () circle brackets surounded the link.
  this is an example on the link :
